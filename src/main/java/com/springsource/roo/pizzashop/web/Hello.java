@@ -18,6 +18,7 @@ public class Hello {
 
     @RequestMapping
     public String index() {
+    	//test
         return "hello/index";
     }
 }
