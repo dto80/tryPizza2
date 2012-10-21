@@ -9,4 +9,5 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RooWebScaffold(path = "bases", formBackingObject = Base.class)
 public class BaseController {
+	// with comment
 }

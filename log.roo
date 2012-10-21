@@ -21,3 +21,5 @@ field set --fieldName pizzas --type ~.domain.Pizza
 web mvc setup
 web mvc all --package com.springsource.roo.pizzashop.web
 // script --file script\pizza.roo
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-21 14:02:13
+web mvc controller --class ~.web.Hello

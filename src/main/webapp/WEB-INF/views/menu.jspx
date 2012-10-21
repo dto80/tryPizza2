@@ -19,5 +19,8 @@
             <menu:item id="i_topping_new" messageCode="global_menu_new" url="/toppings?form" z="e1a5iGUXU+AnmE3TsSiRG0anau4="/>
             <menu:item id="i_topping_list" messageCode="global_menu_list" url="/toppings?page=1&amp;size=${empty param.size ? 10 : param.size}" z="XzlIdR9bro/F4JpeR+A0AAJ/u7g="/>
         </menu:category>
+        <menu:category id="c_controller" z="nj8Dm3hojIyIEyPkwE1UMDIs+K8=">
+            <menu:item id="i_controller__helloindex_id" messageCode="global_generic" url="/hello/index" z="BPNATd6+FGB4jl+7520m+hFSASg="/>
+        </menu:category>
     </menu:menu>
 </div>
