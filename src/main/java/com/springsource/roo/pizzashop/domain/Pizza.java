@@ -15,7 +15,7 @@ import org.springframework.roo.addon.tostring.RooToString;
 @RooToString
 @RooJpaActiveRecord
 public class Pizza {
-
+//hhhhhhh
     @NotNull
     @Size(min = 2)
     private String name;
