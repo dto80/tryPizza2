@@ -24,3 +24,4 @@ web mvc all --package com.springsource.roo.pizzashop.web
 // Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-21 14:02:13
 web mvc controller --class ~.web.Hello
 // Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-21 21:46:32
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-10-22 12:28:44
